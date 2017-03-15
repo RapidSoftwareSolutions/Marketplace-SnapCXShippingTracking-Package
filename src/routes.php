@@ -1,7 +1,6 @@
        <?php
        $routes = [
-       'validateGlobalAddress',
-        'validateUSAddress',
+        'getTrackingDetails',
         'metadata'
        ];
        foreach ($routes as $file) {

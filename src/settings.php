@@ -15,6 +15,6 @@ return [
             'path' => __DIR__ . '/../logs/app.log',
             'level' => \Monolog\Logger::DEBUG,
         ],
-        'api_url' => 'https://api.snapcx.io:443/avs/v1/',
+        'api_url' => 'https://api.snapcx.io/tracking/v1/',
     ],
 ];
