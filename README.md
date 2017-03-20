@@ -2,7 +2,7 @@
 
 # SnapCXShippingTracking Package
 Get real-time shipping tracking status across carriers.
-* Domain: snapcx.io
+* Domain: [SnapCX](https://snapcx.io/) 
 * Credentials: apiKey
 
 ## How to get credentials: 
