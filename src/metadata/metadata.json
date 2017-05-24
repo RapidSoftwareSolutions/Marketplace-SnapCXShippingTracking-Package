@@ -25,7 +25,8 @@
         },
         {
           "name": "carrier",
-          "type": "String",
+          "type": "Select",
+          "options": ["AUTO", "UPS", "USPS", "FEDEX", "DHL", "CAN"],
           "info": "Shipper Carrier code (UPS or USPS or FEDEX or DHL Or CAN (Canada Post) OR use AUTO for automatic detection.).",
           "required": true
         },
